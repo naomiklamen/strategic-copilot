@@ -1,0 +1,53 @@
+ Naomi Klamen			Solutions Engineering Leader | Cloud & AI					                           
+
+Teaneck, NJ 07666 201-835-3258
+Naomi.Klamen@gmail.com Linkedin: https://www.linkedin.com/in/naomiklamen/
+
+
+Professional Summary  
+Solutions Engineering leader with 12+ years of enterprise pre-sales and solution architecture leadership across cloud infrastructure, data, AI/ML, SaaS, and enterprise applications. Brings a 25+ year technology career spanning Oracle and Google Cloud, with proven success leading enterprise transformation, advising C-level stakeholders, and translating complex technical capabilities into measurable business value. Drives revenue growth through strategic solution design, cloud adoption, cross-functional collaboration, and go-to-market execution.
+                                    
+Enterprise Impact: Lead customer engineering supporting an $800M ARR portfolio through strategic solution design and execution.
+Technical Depth: 12+ years leading pre-sales and solution architecture, including AI/ML; holds 11 Google Cloud Professional Certifications and 7 Oracle Cloud certifications.
+Global Scale: Led activation of GenAI solutions across major global advertising agency groups.
+Leadership: Built and enabled high-performing Sales Engineering teams across infrastructure, data, and AI domains.
+Initiatives: Expanded I Am Remarkable across North America, driving broad organizational engagement.
+PROFESSIONAL EXPERIENCE
+Oracle — Director, Strategic Installs June 2025 – Present
+Lead customer engineering supporting an $800M ARR portfolio, accelerating enterprise cloud adoption, expansion, and customer value realization.
+Lead workload adoption  for 13 of Oracle’s top accounts, including major ISVs, guiding technical execution and removing barriers to cloud adoption and expansion.
+Partner with Sales to align technical priorities with account strategies, supporting customer adoption and expansion objectives.
+Advise C-level customers on cloud transformation and solution architecture, collaborating with Product, Engineering, and external partners to resolve technical blockers and achieve customer business objectives.
+October 2017 - April 2025   Google  Cloud
+Customer Engineer Manager 2020- April 2025
+People Leader: Led a customer-focused Sales Engineering organization, enabling rapid growth while improving efficiency and consistency across technical engagements.
+Strategic Business Partner: Partnered with Sales, Product, and Engineering to accelerate deal closure and drive 18% year-over-year consumption growth while supporting a $160M consumption quota.
+Team Development & Enablement: Built and enabled Sales Engineering teams across Infrastructure, Data Analytics, and GenAI; assessed readiness, closed capability gaps, and strengthened go-to-market execution. Led global activation of GenAI solutions across top advertising agency groups.
+Marketplace Onboarding & Deployment: Led onboarding and launch of AdTech solutions on Google Cloud Marketplace, ensuring seamless customer deployments.
+Customer  Engineer  October 2017- 2019
+Built trusted relationships with business and technical stakeholders; aligned cloud solutions to industry-specific goals and challenged assumptions to drive better outcomes.
+Developed technology strategies to guide customers’ cloud adoption and achieve business objectives.
+Applied deep technical expertise to translate complex capabilities into measurable business value.
+Created repeatable retail industry solutions, influencing go-to-market strategy and scaling impact across multiple customers.
+Drove cultural transformation through initiatives like I Am Remarkable, engaging stakeholders across all levels of the organization.
+2011- October 2017 	Oracle / Master Principal Sales Consultant
+Led strategic engagements for national enterprise accounts, partnering with Sales, Product Management, Business Development, and partners to drive cloud transformation initiatives.
+Defined cloud architecture and solution strategies across IaaS, PaaS, and SaaS environments, including integrations with enterprise applications such as Salesforce, HCM, and RightNow.
+Conducted technical discovery and solution design to translate business requirements into scalable cloud migration and modernization plans.
+Served as trusted technical advisor to executive stakeholders, building long-term relationships and acting as escalation point for key deliverables, demos, and POCs.
+Collaborated with regional sales leadership and enterprise architecture teams to identify and shape high-value opportunities and go-to-market strategy.
+2000-2011  	iWay Software / Technical Director/Director Product Management
+Focused on next generation products and all necessary aspects of successful implementation (i.e., technical development strategy, operational process-reengineering, long-term product strategy etc) for iWay Software which produces a stateless Enterprise Service Bus and 300 Technology adapters that are leveraged and resold by numerous vendors including Oracle, IBM and SAP. 
+Responsible for all aspects of Product Life Cycle Management and tasked with idea generation, requirements definition, interaction with development managers and establishment of marketing collateral. 
+Served as the critical hub between customers, sales, marketing, research and development and the executive team.  Key contributor in ScotiaBank’s SalesBuilder project resulting in a Computerworld Honors.
+1994-2000 	Information Builders / Quality Assurance Manager, Mainframe Server Technology
+Hired, managed, and mentored a QA engineering team supporting mainframe server technology products, improving team performance and delivery effectiveness.
+Defined QA processes and partnered with development teams to ensure testing coverage, defect resolution, and high-quality enterprise software releases.
+1989-1994 	IBM / Systems Engineer
+Applied in-depth knowledge of mainframe architecture to provide North American customers with technical solutions for defect problems and usage questions in a timely manner.
+Reviewed system installation projects to assure their technical vitality, rollout plans and overall quality.
+EDUCATION
+Master’s in Applied Mathematics, York University 
+Bachelor of Arts in  Mathematics, York University
+Relevant Certifications
+7 Oracle Cloud certifications , 11 Google certifications including Professional Cloud Architect & Professional Data Engineer & Professional Machine Learning Engineer
